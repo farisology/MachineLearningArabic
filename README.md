@@ -3,4 +3,4 @@ Machine Learning In Arabic Tutorials for my YouTube channel : https://www.youtub
 These tutorials are recorded by me in arabic language to spread the knowledge about Machine Learning to the Arab World.
 
 # علم الآلة بالعربيه
-هذه دورس في علم الآلة و الذكاء الصناعي باللغة العربيه مبسطة و مسهله لكل الفئات و المهتمين في العالم العربي
+هذه دروس في علم الآلة و الذكاء الصناعي باللغة العربيه مبسطة و مسهله لكل الفئات و المهتمين في العالم العربي
