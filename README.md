@@ -4,7 +4,7 @@ These tutorials are recorded by me in arabic language to spread the knowledge ab
 
 # علم الآلة بالعربيه
 هذه دروس في علم الآلة و الذكاء الصناعي باللغة العربيه مبسطة و مسهله لكل الفئات و المهتمين في العالم العربي
-
+هذا رابط القناة: https://www.youtube.com/playlist?list=PLH2enzYTUDTuWsXCqwBzfDC3sLn39QxEN
 # MIT License
 
 Copyright (c) 2017 Fares Hasan
